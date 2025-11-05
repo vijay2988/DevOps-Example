@@ -72,12 +72,12 @@
 					</jdkToolchain>
 				</configuration>
 			</plugin>
-			<plugin>
+		   <plugin>
 				<!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin -->
                 <groupId>org.jacoco</groupId>
                <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.8.14</version>
-				</plugins>
+			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
